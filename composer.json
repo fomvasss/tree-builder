@@ -6,7 +6,6 @@
         "tree", "builder",
         "comments"
     ],
-    "version":"0.0.1",
     "homepage": "https://github.com/fomvasss/tree-builder",
     "authors": [
         {
