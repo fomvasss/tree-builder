@@ -1,0 +1,27 @@
+{
+    "name": "fomvasss/tree-builder",
+    "description": "The library for building a tree array structure",
+    "type": "library",
+    "keywords": [
+        "tree", "builder",
+        "comments"
+    ],
+    "version":"0.0.1",
+    "homepage": "https://github.com/fomvasss/tree-builder",
+    "authors": [
+        {
+            "name": "Vasyl Fomin",
+            "email": "fomvasss@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fomvasss\\TreeBuilder\\": "src"
+        }
+    }
+}
